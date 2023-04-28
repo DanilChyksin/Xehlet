@@ -1,0 +1,22 @@
+{
+  "name": "xexlet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/DanilChyksin/Xehlet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanilChyksin/Xehlet/issues"
+  },
+  "homepage": "https://github.com/DanilChyksin/Xehlet#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
